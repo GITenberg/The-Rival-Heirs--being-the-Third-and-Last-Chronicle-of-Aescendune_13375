@@ -1,0 +1,28 @@
+_repo: The-Rival-Heirs--being-the-Third-and-Last-Chronicle-of-Aescendune_13375
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crake, A. D. (Augustine David)
+    alias: Crake, Augustine David
+    birthdate: 1836
+    deathdate: 1890
+    gutenberg_agent_id: '4926'
+    url: http://www.gutenberg.org/2009/agents/4926
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Great Britain -- History -- Roman period, 55 B.C.-449 A.D. -- Juvenile fiction'
+title: The Rival Heirs; being the Third and Last Chronicle of Aescendune
+url: http://www.gutenberg.org/ebooks/13375
